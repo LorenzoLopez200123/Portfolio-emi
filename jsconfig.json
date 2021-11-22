@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src",
+    "paths": {
+      "components/*": ["components/*"],
+      "pages/*": ["pages/*"],
+      "state/*": ["state/*"],
+      "services/*": ["services/*"],
+      "styles/*": ["styles/*"],
+      "appConfig": ["config/"],
+      "utils/*": ["utils/*"],
+      "assets/*": ["assets/*"],
+      "env/*": ["env/*"],
+      "context/*": ["context/*"]
+    }
+  },
+  "include": ["src"],
+  "exclude": ["node_modules/"]
+}

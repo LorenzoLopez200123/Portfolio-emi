@@ -1,0 +1,9 @@
+.App-hero {
+  height: 100vh;
+  background-color: gray;
+}
+
+.container-section-left-hero {
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+}
